@@ -1,0 +1,3 @@
+[submodule "lib/NewLiquidCrystal"]
+	path = lib/NewLiquidCrystal
+	url = https://github.com/marcmerlin/NewLiquidCrystal.git
